@@ -11,3 +11,12 @@ Learning Objectives:
 - Sportsipy API
 - Data Management with Github Actions and other resources
 
+## planned 
+- extract sportsipy data and build player, team, game datasets
+- explore external datasets
+- perform exploratory data analysis on team member stats
+
+## resources
+- [sportsipy - nfl](https://sportsipy.readthedocs.io/en/latest/nfl.html?highlight=players)
+    - [Player class](https://sportsipy.readthedocs.io/en/latest/nfl.html?highlight=players#sportsipy.nfl.player.AbstractPlayer)
+- [nflgame](https://pypi.org/project/nflgame/)
