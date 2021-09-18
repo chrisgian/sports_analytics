@@ -1,4 +1,4 @@
-[![test fetch sportisfy data](https://github.com/chrisgian/sports_analytics/actions/workflows/test.yml/badge.svg?event=workflow_run)](https://github.com/chrisgian/sports_analytics/actions/workflows/test.yml)
+[![test fetch sportisfy data](https://github.com/chrisgian/sports_analytics/actions/workflows/test.yml/badge.svg?event=workflow_dispatch)](https://github.com/chrisgian/sports_analytics/actions/workflows/test.yml)
 # building and exploring a sports analysis dataset
 Author: Chris Gian
 
