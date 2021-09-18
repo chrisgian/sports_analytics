@@ -1,4 +1,4 @@
-name: scraper-san-juan-gobierno
+name: test fetch sportisfy data
 
 on:
   schedule:
